@@ -21,4 +21,4 @@ rules on how to play
 
 
 Funded by the ERC Consolidator Grant 647787 “LocalAdaptation”
-To be released on the website of the Zoology museum on a CC-BY-NC-ND licence
+Released under a CC-BY-NC-ND 4.0 licence
