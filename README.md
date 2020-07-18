@@ -1,5 +1,5 @@
 # BoardGame
-Climate Change Board Game
+Climate Change - the Board Game
 
 This is a board game to explore how climate change affects the evolution of animal species. 
 
@@ -42,8 +42,12 @@ Turkish: Nihan Dilşad Dağtaş (2)
 Website of the board game: https://michelaleonardi.netsons.org/climate-change-board-game/
 
 The game is available in the following languages:
+
 English: https://michelaleonardi.netsons.org/climate-change-board-game/
+
 Italian: https://michelaleonardi.netsons.org/it/gioco-da-tavolo-sui-cambiamenti-climatici/
+
 Portuguese: https://michelaleonardi.netsons.org/climate-change-jogo-de-tabuleiro/
+
 Turkish: https://michelaleonardi.netsons.org/climate-change-board-game/climate-change-kutu-oyunu/
 
