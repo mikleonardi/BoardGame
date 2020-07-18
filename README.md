@@ -32,4 +32,18 @@ Collaborators: Dr Eleanor Miller (1), Dr Gian Luigi Somma (1), Prof Andrea Manic
 (2) Department of Life Sciences and Biotechnology, University of Ferrara, Italy.
 (3) Museum of Zoology, University of Cambridge
 
+Translators:
+Portuguese: Dr Tiago Tresoldi (1)
+Turkish: Nihan Dilşad Dağtaş (2)
+
+(1) Max Planck Institute for the Science of Human History, Jena, Germany
+(2) Department of Biological Sciences, Middle East Technical University, Ankara, Turkey; Department of Anthropology, University of Oklahoma, Norman, USA.
+
 Website of the board game: https://michelaleonardi.netsons.org/climate-change-board-game/
+
+The game is available in the following languages:
+English: https://michelaleonardi.netsons.org/climate-change-board-game/
+Italian: https://michelaleonardi.netsons.org/it/gioco-da-tavolo-sui-cambiamenti-climatici/
+Portuguese: https://michelaleonardi.netsons.org/climate-change-jogo-de-tabuleiro/
+Turkish: https://michelaleonardi.netsons.org/climate-change-board-game/climate-change-kutu-oyunu/
+
